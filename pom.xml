@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.alura.microservice.eureka</groupId>
-	<artifactId>eureka-server</artifactId>
+	<artifactId>eureka-server-alura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka-server</name>
 	<description>loja</description>
